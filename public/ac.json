@@ -1,0 +1,21 @@
+{
+  "version": "v1.0.0",
+  "title": {
+    "en": "Power a Global Decentralized Compute Network",
+    "zh-SG": "连接全球算力，共建开放计算网络",
+    "zh-TW": "連接全球算力，共建開放運算網路",
+    "ja-JP": "世界の計算リソースをつなぐ",
+    "ko-KR": "전 세계 컴퓨팅 자원을 하나로"
+  },
+  "content": {
+    "en": "qNToken connects GPU and CPU resources worldwide to build an open, decentralized, cross-chain compute network. Enabling efficient node access, task execution, and transparent settlement.\n\nCompute Infrastructure\n• Quantum Console: Manage nodes and compute tasks\n• Quantum Bridge: Connect distributed nodes and remote environments\n• Quantum Lab: Simulate, test, and validate compute workloads\n\nDecentralized Compute Protocol\n• Quantum-PoC: Verify actual compute contributions\n• Node Stake: Enhance node incentives through staking\n• On-chain Settlement: Enable transparent settlement and governance\n\nConnect to the network, select your nodes, and unlock distributed computing.\n\n— qNToken",
+    "zh-SG": "qNToken 连接全球 GPU 与 CPU 算力资源，构建开放、去中心化的跨链计算网络，让算力接入、任务执行与价值结算更加高效透明。\n\n算力基础设施\n• Quantum Console：统一管理节点与计算任务\n• Quantum Bridge：连接分布式节点与远程运行环境\n• Quantum Lab：模拟、测试与验证计算任务\n\n去中心化计算协议\n• Quantum-PoC：验证节点的实际算力贡献\n• Node Stake：通过质押机制增强节点激励\n• On-chain Settlement：支持链上结算与社区治理\n\n接入网络，选择计算节点，开启分布式算力体验。\n\n— qNToken",
+    "zh-TW": "qNToken 連接全球 GPU 與 CPU 算力資源，打造開放、去中心化的跨鏈運算網路，讓算力接入、任務執行與價值結算更加高效透明。\n\n算力基礎設施\n• Quantum Console：統一管理節點與運算任務\n• Quantum Bridge：連接分散式節點與遠端執行環境\n• Quantum Lab：模擬、測試與驗證運算任務\n\n去中心化運算協議\n• Quantum-PoC：驗證節點的實際算力貢獻\n• Node Stake：透過質押機制強化節點激勵\n• On-chain Settlement：支援鏈上結算與社群治理\n\n接入網路，選擇運算節點，開啟分散式算力體驗。\n\n— qNToken",
+    "ja-JP": "qNToken は世界中の GPU・CPU リソースをつなぎ、オープンで分散型のクロスチェーン計算ネットワークを構築します。ノードへのアクセス、タスク実行、透明性の高い決済を実現します。\n\nコンピューティング基盤\n• Quantum Console：ノードと計算タスクを一元管理\n• Quantum Bridge：分散ノードとリモート実行環境を接続\n• Quantum Lab：計算タスクのシミュレーション、テスト、検証\n\n分散型コンピューティングプロトコル\n• Quantum-PoC：実際の計算貢献を検証\n• Node Stake：ステーキングによるノード報酬の強化\n• On-chain Settlement：オンチェーン決済とガバナンスをサポート\n\nネットワークに接続し、ノードを選択して分散コンピューティングを体験しましょう。\n\n— qNToken",
+    "ko-KR": "qNToken은 전 세계 GPU 및 CPU 자원을 연결하여 개방형 탈중앙화 크로스체인 컴퓨팅 네트워크를 구축합니다. 효율적인 노드 연결, 작업 실행 및 투명한 정산을 지원합니다.\n\n컴퓨팅 인프라\n• Quantum Console: 노드 및 컴퓨팅 작업 통합 관리\n• Quantum Bridge: 분산 노드와 원격 실행 환경 연결\n• Quantum Lab: 컴퓨팅 작업 시뮬레이션, 테스트 및 검증\n\n탈중앙화 컴퓨팅 프로토콜\n• Quantum-PoC: 실제 컴퓨팅 기여 검증\n• Node Stake: 스테이킹을 통한 노드 보상 강화\n• On-chain Settlement: 온체인 정산 및 거버넌스 지원\n\n네트워크에 연결하고 노드를 선택하여 분산 컴퓨팅을 경험하세요.\n\n— qNToken"
+  },
+  "WindownloadUrl": "https://github.com/nodaracloud/nodara/releases/",
+  "MacdownloadUrl": "https://github.com/nodaracloud/nodara/releases/",
+  "Mac86downloadUrl": "https://github.com/nodaracloud/nodara/releases/",
+  "mandatory": false
+}
